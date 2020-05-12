@@ -1,0 +1,7 @@
+model_checkpoint_path: "/media/nas2/experimental_results/sticker_stop-30_1/model/sticker_stop-30_1-250"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_stop-30_1/model/sticker_stop-30_1-0"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_stop-30_1/model/sticker_stop-30_1-50"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_stop-30_1/model/sticker_stop-30_1-100"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_stop-30_1/model/sticker_stop-30_1-150"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_stop-30_1/model/sticker_stop-30_1-200"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_stop-30_1/model/sticker_stop-30_1-250"

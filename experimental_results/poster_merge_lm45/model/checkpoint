@@ -1,0 +1,3 @@
+model_checkpoint_path: "/media/nas2/experimental_results/poster_merge_lm45/model/poster_merge_lm45-299"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/poster_merge_lm45/model/poster_merge_lm45-0"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/poster_merge_lm45/model/poster_merge_lm45-299"

@@ -1,0 +1,3 @@
+model_checkpoint_path: "/media/nas2/experimental_results/sticker_45-stop/model/sticker_45-stop-299"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_45-stop/model/sticker_45-stop-0"
+all_model_checkpoint_paths: "/media/nas2/experimental_results/sticker_45-stop/model/sticker_45-stop-299"
