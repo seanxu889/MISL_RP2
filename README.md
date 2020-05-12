@@ -11,3 +11,15 @@ The folders are as follows:
 Further details are given in `README` files in the respective folders. They also specify how to download portions that are needed for the code to run but are not committed here due to size.
 
 Note that in `lisa-cnn-attack` and in `gtsrb-cnn-attack` we include portions of an older version of the [cleverhans](https://github.com/tensorflow/cleverhans) library for compatibility. It carries its own [MIT License](https://github.com/tensorflow/cleverhans/blob/master/LICENSE).
+
+## "subtle_poster" training preocess
+Mask out the background region.
+<p align="center">
+<img src="https://github.com/seanxu889/MISL_RP2/blob/master/subtle_poster.png">
+</p>
+
+## "camouflage_art" training preocess
+Only attack the weak regions based on "subtle_poster" result. Use the mask to project computed perturbations to a shape of sticker.
+<p align="center">
+<img src="https://github.com/seanxu889/MISL_RP2/blob/master/camouflage_art.png">
+</p>
